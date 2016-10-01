@@ -1,0 +1,8 @@
+[package]
+name = "paper-io"
+version = "0.1.0"
+authors = ["Daniel Robertson <dan.robertson@anidata.org>"]
+description = "A paper thin wrapper about unix io multiplexing"
+
+[dependencies]
+libc = "0.2.16"
